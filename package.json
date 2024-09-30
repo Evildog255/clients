@@ -201,7 +201,7 @@
     "tabbable": "6.2.0",
     "tldts": "6.1.46",
     "utf-8-validate": "6.0.4",
-    "zone.js": "0.13.3",
+    "zone.js": "0.15.0",
     "zxcvbn": "4.4.2"
   },
   "overrides": {
